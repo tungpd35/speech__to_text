@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905786327990",
+    "project_id": "speechtotext-83827",
+    "storage_bucket": "speechtotext-83827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905786327990:android:3a53f7684cf41c55eaf717",
+        "android_client_info": {
+          "package_name": "com.voice_2_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905786327990-9ocuie8ue2lu7vmt6adpn48n1ga9tvbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voice_2_text",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "905786327990-r9vj7d7gnb3v7n7de74jsip0ef1vj7q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgSjMEeikrU5bUU0zICu7IO6nvfvQLXTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905786327990-r9vj7d7gnb3v7n7de74jsip0ef1vj7q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
